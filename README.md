@@ -1,2 +1,2 @@
- Hi, I’m Pardeep Singh Brar.
- 👀 I’m a self-taught developer.
+ Hi, I’m Pardeep.
+ 👀 Self-taught developer.
