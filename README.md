@@ -1,2 +1,2 @@
- Hi, I’m Pardeep.
- 👀 Self-taught developer.
+ #Hi, I’m Pardeep.
+ #👀 Self-taught developer.
